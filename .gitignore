@@ -70,3 +70,8 @@ coverage.xml
 
 # Logs
 *.log
+
+# Ignore all task-remote-info.yaml files in all directories
+**/task-remote-info.yaml
+**/course-remote-info.yaml
+**/lesson-remote-info.yaml
