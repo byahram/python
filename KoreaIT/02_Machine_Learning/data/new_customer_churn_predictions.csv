@@ -1,0 +1,7 @@
+Names,Company,Location,Churn_Probability,Churn_Prediction
+Andrew Mccall,King Ltd,"38612 Johnny Stravenue Nataliebury, WI 15717-8316",0.0065,No Churn
+Michele Wright,Cannon-Benson,"21083 Nicole Junction Suite 332, Youngport, ME 23686-4381",0.9787,Churn
+Jeremy Chang,Barron-Robertson,"085 Austin Views Lake Julialand, WY 63726-4298",0.9845,Churn
+Megan Ferguson,Sexton-Golden,"922 Wright Branch North Cynthialand, NC 64721",0.8888,Churn
+Taylor Young,Wood LLC,Unit 0789 Box 0734 DPO AP 39702,0.0144,No Churn
+Jessica Drake,Parks-Robbins,1148 Tina Stravenue Apt. 978 South Carlos TX 21222 9221,0.0872,No Churn
